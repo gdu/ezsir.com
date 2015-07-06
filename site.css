@@ -1,0 +1,2346 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Lato Hairline'), local('Lato-Hairline'), url(http://fonts.gstatic.com/s/lato/v11/h3_FseZLI76g1To6meQ4zX-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Lato Hairline'), local('Lato-Hairline'), url(http://fonts.gstatic.com/s/lato/v11/ifRS04pY1nJBsu8-cUFUS-vvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://fonts.gstatic.com/s/lato/v11/IY9HZVvI1cMoAHxvl0w9LVKPGs1ZzpMvnHX-7fPOuAc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://fonts.gstatic.com/s/lato/v11/22JRxvfANxSmnAhzbFH8PgLUuEpTyoUstqEm5AMlJo4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/8qcEw_nrk_5HEcCpYdJu8BTbgVql8nDJpwnrE27mub0.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/MDadn8DQ_3oT6kvnUq_2r_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://fonts.gstatic.com/s/lato/v11/rZPI2gHXi8zxUjnybc2ZQFKPGs1ZzpMvnHX-7fPOuAc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://fonts.gstatic.com/s/lato/v11/MgNNr5y1C_tIEuLEmicLmwLUuEpTyoUstqEm5AMlJo4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(http://fonts.gstatic.com/s/lato/v11/XNVd6tsqi9wmKNvnh5HNEIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(http://fonts.gstatic.com/s/lato/v11/2HG_tEPiQ4Z6795cGfdivJBw1xU1rKptJj_0jans920.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://fonts.gstatic.com/s/lato/v11/cT2GN3KRBUX69GVJ2b2hxn-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://fonts.gstatic.com/s/lato/v11/1KWMyx7m-L0fkQGwYhWwuuvvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(http://fonts.gstatic.com/s/lato/v11/AcvTq8Q0lyKKNxRlL28Rn4X0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(http://fonts.gstatic.com/s/lato/v11/HkF_qI1x_noxlxhrhMQYEJBw1xU1rKptJj_0jans920.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+body {
+  margin: 0;
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 1.4em;
+  font-family: "Lato";
+  font-size: 14px;
+  line-height: 1.75em;
+  text-transform: none;
+  letter-spacing: .4px;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  color: rgba(28,28,28,.9);
+  background-color: #fff
+}
+
+#outerWrapper {
+  background-image: url("https://static.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2031/assets/alt-bg-image.jpg");
+  background-position: top left;
+  background-image: url("http://static.squarespace.com/static/53c827a3e4b00a63fc062eb5/t/53e162e7e4b0354da305ca8b/1407279847916/DSC07168.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: absolute;
+  min-width: 100%;
+  width: 100%;
+  min-height: 100%;
+  z-index: 1
+}
+
+.collection-type-template-page #outerWrapper {
+  background-image: url("https://static.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2031/assets/default-bg-image.jpg");
+  background-position: top left;
+  background-image: url("./bg.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat
+}
+
+h1 {
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-weight: 400;
+  font-size: 27px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-family: "Lato";
+  font-size: 26px;
+  line-height: 1.25em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-weight: 300;
+  font-style: normal;
+  color: #1c1c1c;
+  margin: 2em 0 .75em
+}
+
+h1 a,h1 a:visited {
+  color: #1c1c1c
+}
+
+h1 a:hover,h1 a:focus {
+  color: #1c1c1c
+}
+
+h1.title {
+  margin: 0 0 .25em;
+  color: #1c1c1c;
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-weight: 400;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-family: "Lato";
+  font-size: 30px;
+  line-height: 1.25em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 1px;
+  text-align: center;
+  font-weight: 300;
+  font-style: normal
+}
+
+h1.title a,h1.title a:visited {
+  color: #1c1c1c
+}
+
+h2 {
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.25em;
+  font-family: "Lato";
+  font-size: 18px;
+  line-height: 1.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 4px;
+  font-weight: 300;
+  font-style: normal;
+  color: #1c1c1c;
+  margin: 2em 0 .75em
+}
+
+h2 a,h2 a:visited {
+  color: #1c1c1c
+}
+
+h2 a:hover,h2 a:focus {
+  color: #1c1c1c
+}
+
+h3 {
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-weight: 400;
+  font-size: 21px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  line-height: 1.25em;
+  font-family: "Lato";
+  font-size: 16px;
+  line-height: 1.1em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: .6px;
+  font-weight: 700;
+  font-style: normal;
+  color: #1c1c1c;
+  margin: 2em 0 .75em
+}
+
+h3 a,h3 a:visited {
+  color: #1c1c1c
+}
+
+h3 a:hover,h3 a:focus {
+  color: #1c1c1c
+}
+
+.quote-block blockquote {
+  font-family: "Playfair Display",Georgia,serif;
+  font-style: italic;
+  font-size: 18px;
+  font-family: "Lato";
+  font-size: 16px;
+  line-height: 1.6em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-style: normal;
+  color: #262626;
+  margin: 2em 3em .75em
+}
+
+.quote-block blockquote span:first-child {
+  margin: 0 0 0 -.3em
+}
+
+.quote-block .source {
+  font-size: inherit
+}
+
+.quote-block .source {
+  font-family: "Playfair Display",Georgia,serif;
+  font-style: italic;
+  font-size: 18px;
+  font-family: "Lato";
+  font-size: 16px;
+  line-height: 1.6em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-style: normal;
+  color: #262626;
+  text-align: right;
+  margin: 0 3em 2em
+}
+
+.sqs-block-horizontalrule hr {
+  border-style: none;
+  border-width: 0;
+  background-color: rgba(28,28,28,.9);
+  height: 1px;
+  opacity: .2;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)"
+}
+
+.html-block blockquote,.markdown-block blockquote {
+  font-family: "Playfair Display",Georgia,serif;
+  font-style: italic;
+  font-size: 18px;
+  font-family: "Lato";
+  font-size: 16px;
+  line-height: 1.6em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-style: normal;
+  color: #262626;
+  margin: 2em 3em
+}
+
+.collection-type-template-page #footer {
+  display: none
+}
+
+.collection-type-template-page #title-area {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  position: absolute;
+  width: 90%;
+  left: 50%;
+  top: 50%;
+  margin: 0 0 0 -45%;
+  -webkit-transition: opacity .4s ease;
+  -moz-transition: opacity .4s ease;
+  -o-transition: opacity .4s ease;
+  transition: opacity .4s ease;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+.collection-type-template-page #title-area h1 {
+  font-family: "Voltaire",Georgia,serif;
+  font-weight: 400;
+  font-size: 115px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-family: "Lato";
+  font-size: 120px;
+  line-height: 1em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: 100;
+  font-style: normal;
+  color: #1a1a1a;
+  margin: 0 0 28px;
+  text-align: center;
+  display: inline-block;
+  width: 100%
+}
+
+.collection-type-template-page #title-area h1 a,.collection-type-template-page #title-area h1 a:visited {
+  text-decoration: none;
+  color: #1a1a1a;
+  display: block
+}
+
+.collection-type-template-page #title-area h1 img {
+  max-width: 100%;
+  opacity: 0;
+  -webkit-transition: opacity .2s ease;
+  -moz-transition: opacity .2s ease;
+  -o-transition: opacity .2s ease;
+  transition: opacity .2s ease
+}
+
+.collection-type-template-page #title-area h1 img[src] {
+  opacity: 1
+}
+
+.collection-type-template-page #title-area p.site-tagline {
+  font-family: Georgia,serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 21px;
+  text-transform: none;
+  letter-spacing: 0px;
+  font-family: "Lato";
+  font-size: 20px;
+  line-height: 1.4em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-weight: 300;
+  font-style: normal;
+  color: rgba(28,28,28,.9);
+  text-align: center;
+  margin-bottom: 0px
+}
+
+.collection-type-template-page #title-area.show {
+  opacity: 1;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"
+}
+
+.collection-type-template-page #title-area.relative {
+  margin-top: 20px !important;
+  margin-bottom: 112px !important;
+  position: relative;
+  top: 0
+}
+
+.collection-type-template-page #title-area .contact-info {
+  color: #c2c2c2;
+  margin: -5px 0 0
+}
+
+.collection-type-template-page #title-area .contact-info p {
+  text-align: center;
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-size: 17px;
+  letter-spacing: 3px;
+  font-family: "Lato";
+  font-size: 13px;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: 400;
+  font-style: normal;
+  margin: .8em 0;
+  color: #c2c2c2
+}
+
+.collection-type-template-page #title-area .contact-info p a,.collection-type-template-page #title-area .contact-info p a:visited {
+  color: #c2c2c2
+}
+
+.collection-type-template-page #title-area .contact-info p a:hover,.collection-type-template-page #title-area .contact-info p a:focus {
+  color: rgba(28,28,28,.5)
+}
+
+.collection-type-template-page #title-area .contact-info .site-location span:not(:last-of-type):after {
+  content: ", "
+}
+
+.collection-type-template-page .site-desc {
+  font-family: Georgia,serif;
+  font-size: 15px;
+  line-height: 1.6em;
+  font-family: "Lato";
+  font-size: 13px;
+  line-height: 1.7em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: #c2c2c2;
+  margin: 0
+}
+
+.collection-type-template-page .site-desc p {
+  margin-bottom: 0
+}
+
+.collection-type-template-page .site-desc p:first-child {
+  margin-top: 0
+}
+
+.collection-type-template-page .site-desc:before {
+  content: '';
+  width: 80px;
+  height: 2px;
+  display: block;
+  background-color: #c2c2c2;
+  margin: 30px auto
+}
+
+.collection-type-template-page #homeBlockField {
+  display: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+.collection-type-template-page h1 {
+  word-wrap: normal
+}
+
+.collection-type-template-page.info-page-layout-business-card #title-area {
+  top: auto;
+  bottom: 0;
+  left: 0;
+  margin: 0 0 40px 40px;
+  text-align: left
+}
+
+.collection-type-template-page.info-page-layout-business-card #title-area.relative {
+  margin-top: 20px !important;
+  margin-bottom: 112px !important;
+  position: relative;
+  top: 0
+}
+
+.collection-type-template-page.info-page-layout-business-card #title-area h1 {
+  text-align: left
+}
+
+.collection-type-template-page.info-page-layout-business-card #title-area p.site-tagline {
+  text-align: left
+}
+
+.collection-type-template-page.info-page-layout-business-card #title-area .contact-info p {
+  text-align: left
+}
+
+.collection-type-template-page.info-page-layout-business-card #title-area .contact-info:before {
+  margin: 30px 0
+}
+
+.collection-type-template-page.info-page-layout-business-card #title-area .site-desc {
+  text-align: left;
+  margin: 0
+}
+
+.collection-type-template-page.info-page-layout-business-card #title-area .site-desc:before {
+  margin: 30px 0
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-poster #title-area,.collection-type-template-page.freeform-text-on-info-page.info-page-layout-offset #title-area {
+  display: none
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-poster #homeBlockField,.collection-type-template-page.freeform-text-on-info-page.info-page-layout-offset #homeBlockField {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  position: absolute;
+  display: block;
+  width: 90%;
+  left: 50%;
+  top: 50%;
+  margin: 0 0 50px -45%;
+  -webkit-transition: opacity .4s ease;
+  -moz-transition: opacity .4s ease;
+  -o-transition: opacity .4s ease;
+  transition: opacity .4s ease;
+  color: #c2c2c2 !important
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-poster #homeBlockField h1,.collection-type-template-page.freeform-text-on-info-page.info-page-layout-offset #homeBlockField h1 {
+  font-family: "Voltaire",Georgia,serif;
+  font-weight: 400;
+  font-size: 115px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-family: "Lato";
+  font-size: 120px;
+  line-height: 1em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: 100;
+  font-style: normal;
+  color: #1a1a1a;
+  display: inline-block;
+  width: 100%
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-poster #homeBlockField.show,.collection-type-template-page.freeform-text-on-info-page.info-page-layout-offset #homeBlockField.show {
+  opacity: 1;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-poster #homeBlockField.relative,.collection-type-template-page.freeform-text-on-info-page.info-page-layout-offset #homeBlockField.relative {
+  margin-top: 20px !important;
+  margin-bottom: 112px !important;
+  position: relative;
+  top: 0
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-business-card #title-area {
+  display: none
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-business-card #homeBlockField {
+  position: absolute;
+  display: block;
+  width: 90%;
+  left: 0;
+  top: auto;
+  bottom: 0;
+  margin: 0 0 40px 40px;
+  color: #c2c2c2 !important;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-business-card #homeBlockField.relative {
+  margin-top: 20px !important;
+  margin-bottom: 112px !important;
+  position: relative;
+  top: 0
+}
+
+.collection-type-template-page.freeform-text-on-info-page.info-page-layout-business-card #homeBlockField h1 {
+  font-family: "Voltaire",Georgia,serif;
+  font-weight: 400;
+  font-size: 115px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-family: "Lato";
+  font-size: 120px;
+  line-height: 1em;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: 100;
+  font-style: normal;
+  color: #1a1a1a;
+  display: inline-block;
+  width: 100%
+}
+
+.collection-type-template-page #title-area {
+  background-color: transparent
+}
+
+.collection-type-template-page.info-page-content-overlay #title-area,.collection-type-template-page.info-page-content-overlay #homeBlockField {
+  background-color: #fff;
+  background-color: rgba(255,255,255,0);
+  border-radius: 0px;
+  padding: 60px
+}
+
+.collection-type-template-page.info-page-content-overlay.info-page-content-drop-shadow #title-area,.collection-type-template-page.info-page-content-overlay.info-page-content-drop-shadow #homeBlockField {
+  box-shadow: 0 0 8px rgba(0,0,0,.4)
+}
+
+#innerWrapper {
+  width: 50%;
+  margin: 30px auto
+}
+
+#innerWrapper #content {
+  padding: 8% 0
+}
+
+#innerWrapper #content .main-content-wrapper,#innerWrapper #content .filter {
+  width: 84%
+}
+
+#footer {
+  margin: 0 auto;
+  width: 100%;
+  color: #6e6e6e;
+  background-color: rgba(255,255,255,0);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 30px
+}
+
+#footer a,#footer a:visited {
+  color: #6e6e6e !important
+}
+
+#footer a:hover,#footer a:focus {
+  color: #1c1c1c !important
+}
+
+#homeBlockField {
+  display: none
+}
+
+#main-navigation,.social {
+  width: calc(50% - 25%);
+  position: fixed
+}
+
+#main-navigation {
+  font-size: 12px
+}
+
+#title-area,#content {
+  width: 100%;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+#title-area {
+  position: relative;
+  padding: 60px 25px;
+  text-align: center;
+  background-color: rgba(255,255,255,0)
+}
+
+#title-area h1 {
+  font-family: "Voltaire",Georgia,serif;
+  font-weight: 400;
+  font-size: 85px;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  line-height: 1em;
+  font-family: "Lato";
+  font-size: 72px;
+  line-height: 1.1em;
+  text-transform: capitalize;
+  text-decoration: none;
+  letter-spacing: 1px;
+  text-align: center;
+  font-weight: 100;
+  font-style: normal;
+  color: #1c1c1c;
+  margin-top: 5px;
+  margin-bottom: 16px;
+  display: inline-block;
+  width: 100%
+}
+
+#title-area h1 a,#title-area h1 a:visited {
+  text-decoration: none;
+  color: #1c1c1c;
+  display: block
+}
+
+#title-area h1 img {
+  opacity: 0;
+  max-width: 50%;
+  -webkit-transition: opacity .4s ease;
+  -moz-transition: opacity .4s ease;
+  -o-transition: opacity .4s ease;
+  transition: opacity .4s ease
+}
+
+#title-area h1 img[src] {
+  opacity: 1
+}
+
+#title-area p.site-tagline {
+  font-family: Georgia,serif;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 1.4em;
+  text-transform: none;
+  letter-spacing: 0px;
+  font-family: "Lato";
+  font-size: 14px;
+  line-height: 1.25em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-style: normal;
+  color: rgba(28,28,28,.8);
+  margin: 7px 0 60px
+}
+
+#title-area p.site-tagline a,#title-area p.site-tagline a:visited {
+  color: rgba(28,28,28,.8)
+}
+
+#title-area p.site-tagline a:hover,#title-area p.site-tagline a:focus {
+  color: #1c1c1c
+}
+
+#title-area .contact-info p {
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-size: 15px;
+  font-family: "Lato";
+  font-size: 12px;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 3px;
+  text-align: center;
+  font-weight: 400;
+  font-style: normal;
+  color: rgba(28,28,28,.6);
+  margin: 7px 0
+}
+
+#title-area .contact-info p a,#title-area .contact-info p a:visited {
+  color: rgba(28,28,28,.6)
+}
+
+#title-area .contact-info p a:hover,#title-area .contact-info p a:focus {
+  color: #1c1c1c
+}
+
+#title-area .site-desc {
+  display: none
+}
+
+#title-area .site-location span:not(:last-of-type):after {
+  content: ", "
+}
+
+#content {
+  background-color: #fff;
+  padding: 90px 0
+}
+
+#content .main-content-wrapper,#content .filter,#content .excerpt,#content .post-injection,#content .body {
+  margin: 0 auto
+}
+
+#content .post-injection {
+  margin-top: 30px
+}
+
+#content h1.title,#content .post-meta {
+  width: 64%;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#content .filter h3 {
+  text-align: center;
+  margin-bottom: 2em;
+  color: #9c9c9c
+}
+
+.hentry {
+  margin: 0 0 100px
+}
+
+.hentry .body {
+  width: 64%
+}
+
+.collection-type-template-page #innerWrapper {
+  margin: 0 !important;
+  width: 100%
+}
+
+.collection-type-template-page #innerWrapper #content {
+  background-color: transparent;
+  padding: 0;
+  width: auto
+}
+
+.collection-type-template-page #innerWrapper #content .main-content-wrapper {
+  width: 0
+}
+
+.collection-type-template-page #title-area .site-desc {
+  display: block
+}
+
+.collection-type-products .hentry {
+  margin: 0
+}
+
+#categoryNav {
+  display: none
+}
+
+li.filter {
+  display: none;
+  visibility: hidden
+}
+
+.show-category-navigation #categoryNav {
+  display: block
+}
+
+#categoryNav {
+  position: relative
+}
+
+#categoryNav ul {
+  text-align: left;
+  margin: 0 0 8%;
+  padding: 0;
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-family: "Lato";
+  font-size: 13px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1em;
+  text-align: center
+}
+
+#categoryNav ul li {
+  display: inline-block;
+  margin: .25em 1em
+}
+
+#categoryNav ul li a,#categoryNav ul li a:visited {
+  color: #abb0b3
+}
+
+#categoryNav ul li a:hover {
+  color: #a2834e
+}
+
+#categoryNav ul li.filter {
+  display: none
+}
+
+#categoryNav ul li.active-link:not(.all) a,#categoryNav ul li.active-link:not(.all) a:visited {
+  color: #a2834e
+}
+
+.view-list #categoryNav ul li.active-link.all a,.view-list #categoryNav ul li.active-link.all a:visited {
+  color: #a2834e
+}
+
+.collection-type-blog #innerWrapper #content {
+  padding: 90px 0
+}
+
+.collection-type-blog #innerWrapper #content .main-content-wrapper {
+  width: 100%
+}
+
+.not-found-page #innerWrapper #content {
+  padding: 8%
+}
+
+.collection-type-blog #content {
+  padding-bottom: 50px
+}
+
+#title-area .site-location,#title-area .phone,#title-area .email,#title-area .site-tagline {
+  display: none
+}
+
+.collection-type-template-page #title-area .site-location,.collection-type-template-page #title-area .phone,.collection-type-template-page #title-area .email,.collection-type-template-page #title-area .site-tagline {
+  display: block
+}
+
+.tagline-and-contact-info-show-tagline-only #title-area .site-tagline {
+  display: block
+}
+
+.tagline-and-contact-info-show-contact-info-only #title-area .site-location,.tagline-and-contact-info-show-contact-info-only #title-area .phone,.tagline-and-contact-info-show-contact-info-only #title-area .email {
+  display: block
+}
+
+.tagline-and-contact-info-show-all #title-area .site-location,.tagline-and-contact-info-show-all #title-area .phone,.tagline-and-contact-info-show-all #title-area .email,.tagline-and-contact-info-show-all #title-area .site-tagline {
+  display: block
+}
+
+.site-border-thin #innerWrapper {
+  border: solid 1px rgba(255,255,255,.8)
+}
+
+.site-border-normal #innerWrapper {
+  border: solid 3px rgba(255,255,255,.8)
+}
+
+.site-border-bold #innerWrapper {
+  border: solid 10px rgba(255,255,255,.8)
+}
+
+.site-border-ultra #innerWrapper {
+  border: solid 20px rgba(255,255,255,.8)
+}
+
+.site-drop-shadow #innerWrapper {
+  box-shadow: 0 0 8px rgba(0,0,0,.4)
+}
+
+.collection-type-template-page #innerWrapper {
+  border-width: 0;
+  box-shadow: none
+}
+
+.collection-type-blog #content .promoted-content {
+  margin: 30px 0;
+  width: 100%
+}
+
+.collection-type-gallery #content {
+  padding-top: 0;
+  padding-bottom: 1em
+}
+
+.collection-type-gallery .simple.gallery-nav {
+  padding: 0 1em
+}
+
+.pagination {
+  text-align: center;
+  font-size: 13px;
+  position: relative;
+  color: #9c9c9c;
+  clear: both
+}
+
+.pagination a,.pagination a:visited {
+  color: rgba(28,28,28,.9)
+}
+
+.pagination a:hover,.pagination a:focus {
+  color: #1c1c1c
+}
+
+.pagination .left,.pagination .right {
+  display: inline
+}
+
+span.prev-title,span.next-title {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  position: absolute;
+  display: block;
+  z-index: 1;
+  top: -15px;
+  left: 0;
+  line-height: 1.4;
+  text-align: center;
+  height: 0;
+  overflow: hidden;
+  width: 100%;
+  -webkit-transition: opacity .4s ease;
+  -moz-transition: opacity .4s ease;
+  -o-transition: opacity .4s ease;
+  transition: opacity .4s ease;
+  color: rgba(28,28,28,.9)
+}
+
+html.no-touch .pagination .left:hover span:not(.disabled) {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"
+}
+
+html.no-touch .pagination .right:hover span:not(.disabled) {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"
+}
+
+html.no-touch .pagination .left:hover span.prev-title {
+  opacity: 1;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  height: auto;
+  overflow: visible
+}
+
+html.no-touch .pagination .right:hover span.next-title {
+  opacity: 1;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  height: auto;
+  overflow: visible
+}
+
+html.no-touch .pagination .left:hover span.prev-title a,html.no-touch .pagination .right:hover span.next-title a {
+  color: rgba(28,28,28,.9)
+}
+
+html.no-touch .pagination .left span.prev-title a:hover,html.no-touch .pagination .left span.prev-title a:focus,html.no-touch .pagination .right span.next-title a:hover,html.no-touch .pagination .right span.next-title a:focus {
+  color: rgba(28,28,28,.9)
+}
+
+html.no-touch .pagination .left.hide,html.no-touch .pagination .right.hide {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"
+}
+
+#bgOverlay {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  z-index: -1;
+  background-color: rgba(255,255,255,0)
+}
+
+.collection-type-template-page #bgOverlay {
+  background-color: rgba(255,255,255,0)
+}
+
+.post-meta {
+  text-align: center;
+  font-size: 13px;
+  font-family: "Lato";
+  color: #9c9c9c;
+  margin: 30px 0 0
+}
+
+.post-meta.author-date {
+  margin: 0 0 30px
+}
+
+.post-meta a,.post-meta a:visited {
+  color: #9c9c9c;
+  cursor: pointer
+}
+
+.post-meta a:hover,.post-meta a:focus {
+  color: #494b4f
+}
+
+.post-meta .counts {
+  margin: 1.5em 0 0
+}
+
+.post-meta .counts .comment-count:after {
+  content: '/';
+  padding: 0 2px 0 4px
+}
+
+.post-meta .comment-count:last-child:after {
+  content: '' !important;
+  padding: 0 !important
+}
+
+.post-meta .tags-cats {
+  margin: 0 0 1.5em;
+  line-height: 1.4em
+}
+
+#main-navigation {
+  top: 0;
+  left: 0
+}
+
+#main-navigation .folder-child {
+  display: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+#main-navigation .folder {
+  cursor: pointer
+}
+
+#main-navigation .folder.dropdown-open .folder-child {
+  display: inline-block
+}
+
+#main-navigation .folder>a {
+  display: block
+}
+
+#main-navigation ul {
+  margin: 30px 0 0 30px;
+  padding: 0
+}
+
+#main-navigation ul li {
+  margin: .75em .5em .75em 0;
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-size: 13px;
+  letter-spacing: 4px;
+  font-family: "Lato";
+  font-size: 12px;
+  line-height: 1.25em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-style: normal;
+  list-style-type: none
+}
+
+#main-navigation ul li a,#main-navigation ul li a:visited {
+  color: #1c1c1c
+}
+
+#main-navigation ul li a:hover,#main-navigation ul li a:focus {
+  color: rgba(28,28,28,.5)
+}
+
+#main-navigation ul li:not(:last-child) {
+  margin-right: .5em
+}
+
+#main-navigation ul li.active-link>a {
+  color: #1c1c1c
+}
+
+#main-navigation ul li.active-folder .folder-parent>a {
+  color: #1c1c1c
+}
+
+#main-navigation ul li .folder-parent>a:first-child:before {
+  content: '+';
+  margin-right: .25em;
+  font-size: 12px
+}
+
+#main-navigation ul li.active-folder .folder-parent>a:first-child:before {
+  color: #1c1c1c
+}
+
+#main-navigation ul li.folder.dropdown-open .folder-parent>a:first-child:before {
+  content: '-'
+}
+
+#main-navigation ul.folder-child {
+  margin: 1em 1em 0 0;
+  padding: 5px 5px 5px 15px;
+  background-color: #333538;
+  background-color: rgba(51,53,56,.8)
+}
+
+.collection-type-template-page.info-page-layout-offset #main-navigation>ul {
+  margin: 30px 0 0 30px
+}
+
+.collection-type-template-page.info-page-layout-business-card #main-navigation>ul {
+  margin: 30px 0 0 30px
+}
+
+.collection-type-template-page.info-page-layout-business-card .social {
+  padding: 30px 30px 0 0
+}
+
+.collection-type-template-page #main-navigation {
+  position: relative;
+  top: auto;
+  left: auto
+}
+
+#mobile-navigation {
+  font-size: 12px
+}
+
+#mobile-navigation #mobile-navigation-label {
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-size: 13px;
+  letter-spacing: 4px;
+  font-family: "Lato";
+  font-size: 12px;
+  line-height: 1.25em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-style: normal
+}
+
+#mobile-navigation ul {
+  margin: 2em 0 0 !important
+}
+
+#mobile-navigation ul li {
+  margin: 1.25em 0;
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-size: 13px;
+  letter-spacing: 4px;
+  font-family: "Lato";
+  font-size: 12px;
+  line-height: 1.25em;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-style: normal
+}
+
+#mobile-navigation ul li a,#mobile-navigation ul li a:visited {
+  color: #1c1c1c
+}
+
+#mobile-navigation ul li a:hover,#mobile-navigation ul li a:focus {
+  color: rgba(28,28,28,.5)
+}
+
+#mobile-navigation ul li.active-link>a {
+  color: #1c1c1c
+}
+
+#mobile-navigation ul li.active-folder .folder-parent>a.active-link {
+  color: #1c1c1c
+}
+
+#mobile-navigation .folder.dropdown-open {
+  margin-bottom: 2em
+}
+
+#mobile-navigation .folder .folder-child {
+  display: none
+}
+
+#mobile-navigation .folder.dropdown-open .folder-child {
+  display: inline-block
+}
+
+#mobile-navigation .folder.dropdown-open .folder-parent>a:first-child:before {
+  content: '-'
+}
+
+#mobile-navigation .folder-parent ul {
+  margin: 0 !important
+}
+
+#mobile-navigation .folder-parent>a:first-child:before {
+  content: '+';
+  margin-right: .5em;
+  font-size: 12px
+}
+
+.info-page-layout-poster #innerWrapper {
+  margin-bottom: 88px
+}
+
+.info-page-layout-poster #main-navigation {
+  position: relative;
+  top: auto;
+  left: auto;
+  width: 60%;
+  margin: 0 auto
+}
+
+.info-page-layout-poster #main-navigation ul {
+  margin: 1em auto 30px;
+  text-align: center
+}
+
+.info-page-layout-poster #main-navigation ul li {
+  display: inline-block;
+  padding: 1em 1em 0;
+  margin: 0
+}
+
+.info-page-layout-poster #main-navigation ul.folder-child {
+  margin: 0 1em 0 0;
+  padding: 0 10px 0 15px;
+  background-color: rgba(51,53,56,.8);
+  position: relative
+}
+
+.info-page-layout-poster #main-navigation ul.folder-child li {
+  display: block;
+  float: none;
+  white-space: nowrap;
+  margin: 1em 0;
+  padding: 0
+}
+
+.info-page-layout-poster #main-navigation .folder {
+  position: relative
+}
+
+.info-page-layout-poster #main-navigation .folder.dropdown-open {
+  background-color: rgba(51,53,56,.8)
+}
+
+.info-page-layout-poster #main-navigation .folder .folder-child {
+  min-width: 100%
+}
+
+.info-page-layout-poster #main-navigation .folder.dropdown-open .folder-child {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: auto;
+  text-align: left;
+  z-index: 9999
+}
+
+.info-page-layout-poster .social {
+  position: absolute;
+  top: auto;
+  bottom: 0;
+  padding: 0 0 10px;
+  width: 100%;
+  box-sizing: border-box
+}
+
+.info-page-layout-poster .social ul {
+  margin: 0;
+  text-align: center
+}
+
+.info-page-layout-poster .social ul li {
+  display: inline-block;
+  margin: 0 .125em .5em;
+  text-align: center
+}
+
+.info-page-layout-poster #title-area {
+  margin-top: 0
+}
+
+.social-icon-style-normal .info-page-layout-poster .social ul li {
+  margin: 0 .375em .5em
+}
+
+.promoted-content .sqs-block.image-block .image-caption-wrapper .image-caption p {
+  margin: 10px 18% 15px;
+  font-size: 12px
+}
+
+@media only screen and (min-width:801px) {
+  .promoted-content .sqs-block.image-block .image-block-outer-wrapper.layout-caption-overlay .intrinsic .image-caption-wrapper {
+    padding-left: 0;
+    padding-right: 0
+  }
+}
+
+a,a:visited {
+  text-decoration: none
+}
+
+a,a:visited {
+  color: #b5b5b5
+}
+
+a:hover,a:focus {
+  color: #1c1c1c
+}
+
+.hide-social-icons .social {
+  display: none !important
+}
+
+.hide-author .author-date .author {
+  display: none !important
+}
+
+.hide-info-page-dividers .site-desc:before,.hide-info-page-dividers .contact-info:before {
+  margin: 0 !important;
+  background-color: transparent !important
+}
+
+body:not(.mobile-style-available) #mobile-navigation {
+  display: none
+}
+
+.comments-wrapper {
+  margin: 110px auto;
+  width: 64%
+}
+
+.comments-wrapper .squarespace-comments .comments-content .comment-list .comment {
+  border-width: 1px 0 0
+}
+
+.comments-wrapper .squarespace-comments .comments-content .comment-list .comment .comment-header {
+  padding-bottom: 0
+}
+
+.comments-wrapper .squarespace-comments .comments-content .comment-list .comment .comment-body p {
+  margin-top: 0
+}
+
+.comments-wrapper .comment-body p,.comments-wrapper .squarespace-comments .new-comment-area .input form.comment-form textarea {
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 1.4em;
+  font-family: "Lato";
+  font-size: 14px;
+  line-height: 1.75em;
+  text-transform: none;
+  letter-spacing: .4px;
+  text-decoration: none;
+  font-weight: 400;
+  font-style: normal
+}
+
+.comments-wrapper h3,.comments-wrapper .comment-sort,.comments-wrapper .subscribe,.comments-wrapper .squarespace-comments .comments-content .comment-list .comment .comment-header .user-info .author,.comments-wrapper .squarespace-comments .comments-content .comment-list .comment .comment-header .user-info .date,.comments-wrapper .squarespace-comments .new-comment-area .comment-btn-wrapper .btn-text,.comments-wrapper .squarespace-comments .new-comment-area .comment-btn-wrapper .comment-btn {
+  font-family: "Source Sans Pro",Tahoma,Arial,sans-serif;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 1.4em;
+  font-family: "Lato";
+  font-size: 14px;
+  line-height: 1.75em;
+  text-transform: none;
+  letter-spacing: .4px;
+  text-decoration: none;
+  font-weight: 400;
+  font-style: normal;
+  color: #9c9c9c;
+  font-weight: normal
+}
+
+.comments-wrapper h3,.comments-wrapper .squarespace-comments .comments-content .comment-list .comment .comment-header .user-info .author {
+  font-weight: bold
+}
+
+.comments-wrapper .squarespace-comments .new-comment-area .input form.comment-form textarea {
+  border-color: rgba(255,255,255,.8)
+}
+
+.comments-wrapper .squarespace-comments .new-comment-area .comment-btn-wrapper {
+  font-size: 1em
+}
+
+.comments-wrapper .squarespace-comments .new-comment-area .comment-btn-wrapper .comment-btn {
+  background-color: #f9f9f9;
+  border: solid 1px #eaeaea;
+  padding: 5px 10px
+}
+
+.social {
+  font-size: 28px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 30px 30px 0 10px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+.social ul {
+  margin: 0;
+  padding: 0;
+  text-align: right
+}
+
+.social ul li {
+  list-style-type: none;
+  display: inline-block;
+  text-align: right;
+  margin: 0 0 .5em .25em
+}
+
+.social-icon-style-normal .social ul li {
+  margin: 0 0 .5em .75em
+}
+
+.social ul li a,.social ul li a:visited {
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+  color: #fff;
+  cursor: pointer;
+  font-size: 28px
+}
+
+.social ul li a:hover {
+  color: rgba(28,28,28,.5)
+}
+
+@font-face {
+  font-family:'meta-font';src:url('https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2093/assets/meta-font.eot');src:url('https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2093/assets/meta-font.eot?#iefix') format('embedded-opentype'),url('https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2093/assets/meta-font.svg#meta-font') format('svg'),url('https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2093/assets/meta-font.woff') format('woff'),url('https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2093/assets/meta-font.ttf') format('truetype');font-weight:normal;font-style:normal
+}
+
+.comment-share-like [class^="icon-"]:before,.comment-share-like [class*=" icon-"]:before,[class^="ss-social-button-icon"]:before,[class*=" ss-social-button-icon"]:before,[class^="like-icon"]:before,[class*=" like-icon"]:before {
+  font-family: 'meta-font';
+  font-style: normal;
+  speak: none;
+  line-height: 1em
+}
+
+.comment-share-like .icon-tag:before {
+  content: "\21"
+}
+
+.icon-heart .like-icon:before {
+  content: "\22"
+}
+
+.icon-share .ss-social-button-icon:before,.ss-social-button-icon:before {
+  content: "\23"
+}
+
+.comment-share-like .icon-location:before {
+  content: "\24"
+}
+
+.comment-share-like .icon-link:before {
+  content: "\25"
+}
+
+.comment-share-like .icon-comments:before {
+  content: "\26"
+}
+
+.comment-share-like .icon-category:before {
+  content: "\27"
+}
+
+.comment-share-like .icon-source:before {
+  content: "\28"
+}
+
+.icon-info:before {
+  content: "\2a"
+}
+
+.icon-search:before {
+  content: "\2b"
+}
+
+.comment-share-like .icon-connect:before {
+  content: "\2c"
+}
+
+.comment-share-like {
+  line-height: 18px
+}
+
+.squarespace-social-buttons.inline-style .ss-social-button-icon {
+  background-image: none !important;
+  background-color: transparent;
+  text-indent: 0;
+  line-height: 18px;
+  background: transparent 0 0 no-repeat !important;
+  margin: 0
+}
+
+.squarespace-social-buttons.inline-style :hover .ss-social-button-icon {
+  background-color: transparent
+}
+
+.squarespace-social-buttons.inline-style .ss-social-button {
+  text-indent: -9999px
+}
+
+.ss-social-button-list {
+  text-align: left
+}
+
+.sqs-simple-like {
+  vertical-align: top
+}
+
+.comment-share-like .like-count {
+  display: none
+}
+
+.sqs-simple-like:hover .like-icon,.sqs-simple-like:hover .like-icon:before {
+  background-color: transparent
+}
+
+.sqs-simple-like .like-icon {
+  background-image: none;
+  background-color: transparent;
+  float: none;
+  width: 13px;
+  height: 13px;
+  vertical-align: top;
+  margin: 0 3px
+}
+
+.sqs-simple-like.clicked .like-icon,.sqs-simple-like .like-icon:hover {
+  color: #e42f0b
+}
+
+.sqs-simple-like.clicked .like-icon,.sqs-simple-like.clicked .like-icon:before {
+  background-color: transparent
+}
+
+a.icon-comments {
+  display: inline-block;
+  margin: 0 5px;
+  vertical-align: top
+}
+
+.collection-type-template-page.sqs-style-mode.info-page-layout-offset #outerWrapper {
+  margin-left: -110px
+}
+
+.collection-type-template-page.sqs-style-mode.info-page-layout-offset #main-navigation {
+  margin-left: 110px
+}
+
+.collection-type-template-page.sqs-style-mode.info-page-layout-offset .social {
+  margin-right: 110px
+}
+
+.collection-type-template-page.sqs-style-mode.info-page-layout-business-card #outerWrapper {
+  margin-left: -219px
+}
+
+.collection-type-template-page.sqs-style-mode.info-page-layout-business-card #title-area {
+  margin-left: 259px
+}
+
+.collection-type-template-page.sqs-style-mode.info-page-layout-business-card #main-navigation {
+  margin-left: 219px
+}
+
+body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-offset #outerWrapper,body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-business-card #outerWrapper {
+  margin-left: -219px
+}
+
+body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-offset #innerWrapper,body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-business-card #innerWrapper {
+  position: relative;
+  left: 110px
+}
+
+body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-offset #main-navigation,body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-business-card #main-navigation {
+  margin-left: 219px
+}
+
+.sqs-style-mode.info-page-layout-poster #outerWrapper {
+  margin-left: -110px
+}
+
+.collection-type-template-page.sqs-style-mode.info-page-layout-business-card.info-page-content-overlay #title-area {
+  padding-left: 60px;
+  margin-left: 259px
+}
+
+@media only screen and (min-width:701px) {
+  body:not(.info-page-layout-poster) .absolute-cart-box {
+    top: 80px
+  }
+}
+
+.cf:before,.cf:after {
+  content: " ";
+  display: table
+}
+
+.cf:after {
+  clear: both
+}
+
+.hidden {
+  display: none !important;
+  visibility: hidden
+}
+
+#mobile-navigation {
+  display: none !important\9
+}
+
+.sqs-block-summary-v2 .summary-title,.sqs-block-summary-v2 .summary-heading {
+  font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Lato";
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-style: normal;
+  color: #666
+}
+
+.sqs-block-summary-v2 .summary-title a,.sqs-block-summary-v2 .summary-heading a,.sqs-block-summary-v2 .summary-title a:link,.sqs-block-summary-v2 .summary-heading a:link,.sqs-block-summary-v2 .summary-title a:visited,.sqs-block-summary-v2 .summary-heading a:visited {
+  color: #666
+}
+
+.sqs-block-summary-v2 .summary-title a:hover,.sqs-block-summary-v2 .summary-heading a:hover,.sqs-block-summary-v2 .summary-title a:link:hover,.sqs-block-summary-v2 .summary-heading a:link:hover,.sqs-block-summary-v2 .summary-title a:visited:hover,.sqs-block-summary-v2 .summary-heading a:visited:hover {
+  color: #1c1c1c
+}
+
+.sqs-block-summary-v2 a,.sqs-block-summary-v2 a:link,.sqs-block-summary-v2 a:visited {
+  color: #b5b5b5
+}
+
+.sqs-block-summary-v2 a:hover,.sqs-block-summary-v2 a:link:hover,.sqs-block-summary-v2 a:visited:hover {
+  color: #1c1c1c
+}
+
+.sqs-block-summary-v2 .summary-metadata-item {
+  color: rgba(28,28,28,.7000000000000001)
+}
+
+.sqs-block-summary-v2 .summary-metadata-item a,.sqs-block-summary-v2 .summary-metadata-item a:link,.sqs-block-summary-v2 .summary-metadata-item a:visited {
+  color: rgba(28,28,28,.7000000000000001)
+}
+
+.sqs-block-summary-v2 .summary-metadata-item a:hover,.sqs-block-summary-v2 .summary-metadata-item a:link:hover,.sqs-block-summary-v2 .summary-metadata-item a:visited:hover {
+  color: #1c1c1c
+}
+
+#mobile-navigation {
+  width: 100%;
+  padding: 1em 0;
+  text-align: center
+}
+
+#mobile-navigation {
+  display: none;
+  cursor: pointer;
+  border-radius: 0;
+  background: #fff;
+  -moz-user-select: -moz-none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none
+}
+
+#mobile-navigation #mobile-navigation-label {
+  color: #1c1c1c;
+  background: #fff;
+  border-radius: 0;
+  cursor: pointer
+}
+
+#mobile-navigation #mobile-navigation-label:after {
+  content: 'Menu'
+}
+
+#mobile-navigation ul {
+  display: none;
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 0 0
+}
+
+#mobile-navigation ul a {
+  color: #1c1c1c;
+  text-decoration: none
+}
+
+#mobile-navigation.sqs-mobile-nav-open ul {
+  display: block
+}
+
+#mobile-navigation.sqs-mobile-nav-open #mobile-navigation-label:after {
+  content: 'Close'
+}
+
+@media screen and (max-width:640px) {
+  #main-navigation {
+    display: none
+  }
+
+  #mobile-navigation {
+    display: block
+  }
+}
+
+#mobile-navigation {
+  font-size:
+}
+
+@media only screen and (max-width:1024px) {
+  #title-area,#homeBlockField,.main-content-wrapper {
+    -webkit-transform: translate3d(0,0,0)
+  }
+
+  #innerWrapper {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 88px
+  }
+
+  #main-navigation {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 60%;
+    margin: 0 auto
+  }
+
+  #main-navigation ul {
+    margin: 1em auto 30px;
+    text-align: center
+  }
+
+  #main-navigation ul li {
+    display: inline-block;
+    padding: 1em 1em 0;
+    margin: 0
+  }
+
+  #main-navigation ul.folder-child {
+    margin: 0 1em 0 0;
+    padding: 0 10px 0 15px;
+    background-color: #333538;
+    background-color: rgba(51,53,56,.8);
+    min-width: 100%;
+    position: relative
+  }
+
+  #main-navigation ul.folder-child li {
+    display: block;
+    float: none;
+    white-space: nowrap;
+    margin: 1em 0;
+    padding: 0
+  }
+
+  #main-navigation .folder {
+    position: relative
+  }
+
+  #main-navigation .folder.dropdown-open {
+    background-color: #333538;
+    background-color: rgba(51,53,56,.8)
+  }
+
+  #main-navigation .folder.dropdown-open .folder-child {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: auto;
+    text-align: left;
+    z-index: 9999
+  }
+
+  .social {
+    position: absolute;
+    top: auto;
+    bottom: 0;
+    padding: 0 0 10px;
+    width: 100%
+  }
+
+  .social ul {
+    margin: 0;
+    text-align: center
+  }
+
+  .social ul li {
+    margin: 0 .5em .5em;
+    text-align: center;
+    float: none;
+    display: inline-block
+  }
+
+  .collection-type-template-page #innerWrapper,.collection-type-template-page.info-page-layout-offset #innerWrapper,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #innerWrapper,.collection-type-template-page.info-page-layout-poster #innerWrapper,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #innerWrapper,.collection-type-template-page.info-page-layout-business-card #innerWrapper,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #innerWrapper,.collection-type-template-page.info-page-content-overlay #innerWrapper,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #innerWrapper,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #innerWrapper {
+    width: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box
+  }
+
+  .collection-type-template-page #content,.collection-type-template-page.info-page-layout-offset #content,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #content,.collection-type-template-page.info-page-layout-poster #content,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #content,.collection-type-template-page.info-page-layout-business-card #content,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #content,.collection-type-template-page.info-page-content-overlay #content,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #content,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #content {
+    width: 100%
+  }
+
+  .collection-type-template-page #homeBlockField,.collection-type-template-page.info-page-layout-offset #homeBlockField,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #homeBlockField,.collection-type-template-page.info-page-layout-poster #homeBlockField,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #homeBlockField,.collection-type-template-page.info-page-layout-business-card #homeBlockField,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #homeBlockField,.collection-type-template-page.info-page-content-overlay #homeBlockField,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #homeBlockField,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #homeBlockField {
+    width: 90%;
+    left: auto;
+    bottom: auto;
+    top: 50%;
+    position: absolute;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center
+  }
+
+  .collection-type-template-page #title-area,.collection-type-template-page.info-page-layout-offset #title-area,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area,.collection-type-template-page.info-page-layout-poster #title-area,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area,.collection-type-template-page.info-page-layout-business-card #title-area,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area,.collection-type-template-page.info-page-content-overlay #title-area,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area {
+    width: 90%;
+    left: auto;
+    bottom: auto;
+    top: 50%;
+    position: absolute;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center
+  }
+
+  .collection-type-template-page #title-area .site-desc,.collection-type-template-page.info-page-layout-offset #title-area .site-desc,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area .site-desc,.collection-type-template-page.info-page-layout-poster #title-area .site-desc,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area .site-desc,.collection-type-template-page.info-page-layout-business-card #title-area .site-desc,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area .site-desc,.collection-type-template-page.info-page-content-overlay #title-area .site-desc,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area .site-desc,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area .site-desc {
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center
+  }
+
+  .collection-type-template-page #title-area .site-desc:before,.collection-type-template-page.info-page-layout-offset #title-area .site-desc:before,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area .site-desc:before,.collection-type-template-page.info-page-layout-poster #title-area .site-desc:before,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area .site-desc:before,.collection-type-template-page.info-page-layout-business-card #title-area .site-desc:before,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area .site-desc:before,.collection-type-template-page.info-page-content-overlay #title-area .site-desc:before,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area .site-desc:before,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area .site-desc:before {
+    margin-left: auto;
+    margin-right: auto
+  }
+
+  .collection-type-template-page #title-area p.site-tagline,.collection-type-template-page.info-page-layout-offset #title-area p.site-tagline,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area p.site-tagline,.collection-type-template-page.info-page-layout-poster #title-area p.site-tagline,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area p.site-tagline,.collection-type-template-page.info-page-layout-business-card #title-area p.site-tagline,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area p.site-tagline,.collection-type-template-page.info-page-content-overlay #title-area p.site-tagline,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area p.site-tagline,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area p.site-tagline {
+    text-align: center
+  }
+
+  .collection-type-template-page #title-area .contact-info p,.collection-type-template-page.info-page-layout-offset #title-area .contact-info p,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area .contact-info p,.collection-type-template-page.info-page-layout-poster #title-area .contact-info p,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area .contact-info p,.collection-type-template-page.info-page-layout-business-card #title-area .contact-info p,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area .contact-info p,.collection-type-template-page.info-page-content-overlay #title-area .contact-info p,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area .contact-info p,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area .contact-info p {
+    text-align: center
+  }
+
+  .collection-type-template-page #title-area h1.site-title,.collection-type-template-page.info-page-layout-offset #title-area h1.site-title,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area h1.site-title,.collection-type-template-page.info-page-layout-poster #title-area h1.site-title,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area h1.site-title,.collection-type-template-page.info-page-layout-business-card #title-area h1.site-title,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area h1.site-title,.collection-type-template-page.info-page-content-overlay #title-area h1.site-title,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area h1.site-title,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area h1.site-title {
+    text-align: center
+  }
+
+  .collection-type-template-page #title-area.relative,.collection-type-template-page.info-page-layout-offset #title-area.relative,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area.relative,.collection-type-template-page.info-page-layout-poster #title-area.relative,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area.relative,.collection-type-template-page.info-page-layout-business-card #title-area.relative,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area.relative,.collection-type-template-page.info-page-content-overlay #title-area.relative,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area.relative,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area.relative {
+    margin-top: 20px !important;
+    margin-bottom: 112px !important;
+    position: relative;
+    top: 0
+  }
+
+  .collection-type-template-page #main-navigation,.collection-type-template-page.info-page-layout-offset #main-navigation,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #main-navigation,.collection-type-template-page.info-page-layout-poster #main-navigation,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #main-navigation,.collection-type-template-page.info-page-layout-business-card #main-navigation,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #main-navigation,.collection-type-template-page.info-page-content-overlay #main-navigation,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #main-navigation,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #main-navigation {
+    top: 0;
+    left: auto;
+    width: 90%;
+    margin: 0 auto
+  }
+
+  .collection-type-template-page #main-navigation ul,.collection-type-template-page.info-page-layout-offset #main-navigation ul,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #main-navigation ul,.collection-type-template-page.info-page-layout-poster #main-navigation ul,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #main-navigation ul,.collection-type-template-page.info-page-layout-business-card #main-navigation ul,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #main-navigation ul,.collection-type-template-page.info-page-content-overlay #main-navigation ul,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #main-navigation ul,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #main-navigation ul {
+    margin: 1em auto 30px;
+    text-align: center
+  }
+
+  .collection-type-template-page #main-navigation ul li,.collection-type-template-page.info-page-layout-offset #main-navigation ul li,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #main-navigation ul li,.collection-type-template-page.info-page-layout-poster #main-navigation ul li,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #main-navigation ul li,.collection-type-template-page.info-page-layout-business-card #main-navigation ul li,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #main-navigation ul li,.collection-type-template-page.info-page-content-overlay #main-navigation ul li,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #main-navigation ul li,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #main-navigation ul li {
+    display: inline-block;
+    padding: 1em 1em 0;
+    margin: 0
+  }
+
+  .collection-type-template-page #main-navigation ul.folder-child,.collection-type-template-page.info-page-layout-offset #main-navigation ul.folder-child,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #main-navigation ul.folder-child,.collection-type-template-page.info-page-layout-poster #main-navigation ul.folder-child,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #main-navigation ul.folder-child,.collection-type-template-page.info-page-layout-business-card #main-navigation ul.folder-child,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #main-navigation ul.folder-child,.collection-type-template-page.info-page-content-overlay #main-navigation ul.folder-child,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #main-navigation ul.folder-child,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #main-navigation ul.folder-child {
+    margin: 0 1em 0 0;
+    padding: 0 10px 0 15px;
+    background-color: #333538;
+    background-color: rgba(51,53,56,.8);
+    min-width: 100%;
+    position: relative
+  }
+
+  .collection-type-template-page #main-navigation ul.folder-child li,.collection-type-template-page.info-page-layout-offset #main-navigation ul.folder-child li,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #main-navigation ul.folder-child li,.collection-type-template-page.info-page-layout-poster #main-navigation ul.folder-child li,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #main-navigation ul.folder-child li,.collection-type-template-page.info-page-layout-business-card #main-navigation ul.folder-child li,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #main-navigation ul.folder-child li,.collection-type-template-page.info-page-content-overlay #main-navigation ul.folder-child li,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #main-navigation ul.folder-child li,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #main-navigation ul.folder-child li {
+    display: block;
+    float: none;
+    white-space: nowrap;
+    margin: 1em 0;
+    padding: 0
+  }
+
+  .collection-type-template-page #main-navigation .folder,.collection-type-template-page.info-page-layout-offset #main-navigation .folder,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #main-navigation .folder,.collection-type-template-page.info-page-layout-poster #main-navigation .folder,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #main-navigation .folder,.collection-type-template-page.info-page-layout-business-card #main-navigation .folder,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #main-navigation .folder,.collection-type-template-page.info-page-content-overlay #main-navigation .folder,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #main-navigation .folder,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #main-navigation .folder {
+    position: relative
+  }
+
+  .collection-type-template-page #main-navigation .folder.dropdown-open,.collection-type-template-page.info-page-layout-offset #main-navigation .folder.dropdown-open,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #main-navigation .folder.dropdown-open,.collection-type-template-page.info-page-layout-poster #main-navigation .folder.dropdown-open,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #main-navigation .folder.dropdown-open,.collection-type-template-page.info-page-layout-business-card #main-navigation .folder.dropdown-open,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #main-navigation .folder.dropdown-open,.collection-type-template-page.info-page-content-overlay #main-navigation .folder.dropdown-open,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #main-navigation .folder.dropdown-open,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #main-navigation .folder.dropdown-open {
+    background-color: #333538;
+    background-color: rgba(51,53,56,.8)
+  }
+
+  .collection-type-template-page #main-navigation .folder.dropdown-open .folder-child,.collection-type-template-page.info-page-layout-offset #main-navigation .folder.dropdown-open .folder-child,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #main-navigation .folder.dropdown-open .folder-child,.collection-type-template-page.info-page-layout-poster #main-navigation .folder.dropdown-open .folder-child,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #main-navigation .folder.dropdown-open .folder-child,.collection-type-template-page.info-page-layout-business-card #main-navigation .folder.dropdown-open .folder-child,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #main-navigation .folder.dropdown-open .folder-child,.collection-type-template-page.info-page-content-overlay #main-navigation .folder.dropdown-open .folder-child,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #main-navigation .folder.dropdown-open .folder-child,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #main-navigation .folder.dropdown-open .folder-child {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: auto;
+    text-align: left;
+    z-index: 9999
+  }
+
+  .collection-type-template-page .social,.collection-type-template-page.info-page-layout-offset .social,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page .social,.collection-type-template-page.info-page-layout-poster .social,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page .social,.collection-type-template-page.info-page-layout-business-card .social,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page .social,.collection-type-template-page.info-page-content-overlay .social,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page .social,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay .social {
+    position: absolute;
+    top: auto;
+    bottom: 0;
+    padding: 0 0 10px;
+    width: 100%
+  }
+
+  .collection-type-template-page .social ul,.collection-type-template-page.info-page-layout-offset .social ul,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page .social ul,.collection-type-template-page.info-page-layout-poster .social ul,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page .social ul,.collection-type-template-page.info-page-layout-business-card .social ul,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page .social ul,.collection-type-template-page.info-page-content-overlay .social ul,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page .social ul,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay .social ul {
+    margin: 0;
+    text-align: center
+  }
+
+  .collection-type-template-page .social ul li,.collection-type-template-page.info-page-layout-offset .social ul li,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page .social ul li,.collection-type-template-page.info-page-layout-poster .social ul li,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page .social ul li,.collection-type-template-page.info-page-layout-business-card .social ul li,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page .social ul li,.collection-type-template-page.info-page-content-overlay .social ul li,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page .social ul li,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay .social ul li {
+    margin: 0 .5em .5em;
+    text-align: center;
+    float: none;
+    display: inline-block
+  }
+}
+
+@media only screen and (max-width:800px) {
+  .promoted-content .sqs-block.image-block .image-caption-wrapper .image-caption p {
+    margin: 10px 0 15px 50px
+  }
+
+  body:not(.collection-type-template-page) #innerWrapper,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #innerWrapper {
+    width: auto;
+    margin: 0 15px 88px
+  }
+
+  body:not(.collection-type-template-page) #main-navigation,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #main-navigation {
+    width: 90%
+  }
+
+  body:not(.collection-type-template-page) #content,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #content {
+    padding: 30px 50px !important
+  }
+
+  body:not(.collection-type-template-page) #content .main-content-wrapper,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #content .main-content-wrapper,body:not(.collection-type-template-page) #content .filter,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #content .filter {
+    width: 100% !important
+  }
+
+  body:not(.collection-type-template-page) #content .main-content-wrapper .body,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #content .main-content-wrapper .body,body:not(.collection-type-template-page) #content .filter .body,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #content .filter .body {
+    width: 100%
+  }
+
+  body:not(.collection-type-template-page) #content h1.title,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #content h1.title,body:not(.collection-type-template-page) #content .post-meta,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #content .post-meta {
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+  body:not(.collection-type-template-page) .promoted-content .sqs-block.image-block .image-caption-wrapper .image-caption p,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster .promoted-content .sqs-block.image-block .image-caption-wrapper .image-caption p {
+    margin: 10px 0 0
+  }
+
+  body:not(.collection-type-template-page) #mainBgImage,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #mainBgImage {
+    display: none
+  }
+
+  .comments-wrapper {
+    margin: 75px auto;
+    width: 100%
+  }
+
+  .collection-type-blog .hentry,.collection-type-gallery .hentry {
+    margin: 0 0 75px
+  }
+
+  .sqs-block.quote-block .sqs-block-content .quote blockquote {
+    margin: 1em 1.5em .5em
+  }
+
+  .sqs-block.quote-block .sqs-block-content .source {
+    margin: 0 1.5em 1em
+  }
+
+  .sqs-block.html-block .sqs-block-content blockquote {
+    margin: 1em 1.5em .5em
+  }
+}
+
+@media only screen and (max-width:800px) and (min-width:641px) {
+  #outerWrapper {
+    overflow: hidden
+  }
+}
+
+@media only screen and (max-width:640px) {
+  .sqs-layout [class*=sqs-col] {
+    float: none !important;
+    width: auto !important
+  }
+
+  .sqs-layout .spacer-block {
+    display: none
+  }
+
+  .sqs-layout .sqs-row .sqs-block:first-child {
+    padding-top: 17px !important
+  }
+
+  .sqs-layout .sqs-row .sqs-block:last-child {
+    padding-bottom: 17px !important
+  }
+
+  .sqs-layout .sqs-row+.sqs-row,.sqs-layout .sqs-row+.sqs-block {
+    margin-top: 0 !important
+  }
+
+  .sqs-gallery-design-grid-slide {
+    width: 50% !important;
+    margin: 0 0 10px 0 !important
+  }
+
+  .comments-wrapper {
+    margin: 40px auto 0;
+    width: 100%
+  }
+
+  .comments-wrapper h3,.comments-wrapper .comment-sort,.comments-wrapper .subscribe,.comments-wrapper .squarespace-comments .comments-content .comment-list .comment .comment-header .user-info .author,.comments-wrapper .squarespace-comments .comments-content .comment-list .comment .comment-header .user-info .date,.comments-wrapper .squarespace-comments .new-comment-area .comment-btn-wrapper .btn-text,.comments-wrapper .squarespace-comments .new-comment-area .comment-btn-wrapper .comment-btn {
+    font-size: 14px !important
+  }
+
+  body:not(.collection-type-template-page) #outerWrapper,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #outerWrapper {
+    background-image: none
+  }
+
+  body:not(.collection-type-template-page).mobile-background-image #outerWrapper,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster.mobile-background-image #outerWrapper {
+    background-image: url("https://static.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2031/assets/alt-bg-image.jpg");
+    background-position: top left;
+    background-image: url("http://static.squarespace.com/static/53c827a3e4b00a63fc062eb5/t/53e162e7e4b0354da305ca8b/1407279847916/DSC07168.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat
+  }
+
+  body:not(.collection-type-template-page) #innerWrapper,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #innerWrapper {
+    margin-left: 0;
+    margin-right: 0
+  }
+
+  .squarespace-comments .header-controls .controls {
+    padding-bottom: 10px
+  }
+
+  .squarespace-comments .header-controls .controls .comment-sort {
+    margin-left: 0
+  }
+
+  .squarespace-comments .comments-content .comment-list .comment .comment-header .user-info {
+    margin-right: 25px
+  }
+
+  .collection-type-blog .hentry,.collection-type-gallery .hentry {
+    margin: 0 0 40px
+  }
+
+  body:not(.collection-type-template-page) #content,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #content {
+    padding: 25px !important
+  }
+
+  body:not(.collection-type-template-page) .promoted-content,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster .promoted-content {
+    margin: 0 0 10px
+  }
+
+  body:not(.collection-type-template-page) #title-area,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #title-area {
+    padding: 25px
+  }
+
+  body:not(.collection-type-template-page) #title-area h1,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #title-area h1 {
+    font-size: 43.199999999999996px
+  }
+
+  body:not(.collection-type-template-page) #title-area h1 img,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #title-area h1 img {
+    max-width: 80% !important
+  }
+
+  body:not(.collection-type-template-page) #title-area p.site-tagline,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #title-area p.site-tagline {
+    font-size: 15px
+  }
+
+  body:not(.collection-type-template-page) #title-area .contact-info,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #title-area .contact-info {
+    margin-top: 0
+  }
+
+  body:not(.collection-type-template-page) #title-area .contact-info p,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster #title-area .contact-info p {
+    font-size: 12px
+  }
+
+  body:not(.collection-type-template-page) .hentry:last-child,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster .hentry:last-child {
+    margin: 0
+  }
+
+  .collection-type-template-page #title-area,.collection-type-template-page.info-page-layout-poster #title-area,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area,.collection-type-template-page.info-page-layout-business-card #title-area,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area,.collection-type-template-page.info-page-layout-offset #title-area,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area,.collection-type-template-page.info-page-content-overlay #title-area,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area,.collection-type-template-page #homeBlockField,.collection-type-template-page.info-page-layout-poster #homeBlockField,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #homeBlockField,.collection-type-template-page.info-page-layout-business-card #homeBlockField,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #homeBlockField,.collection-type-template-page.info-page-layout-offset #homeBlockField,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #homeBlockField,.collection-type-template-page.info-page-content-overlay #homeBlockField,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #homeBlockField,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #homeBlockField {
+    position: relative;
+    top: 0;
+    margin-top: 30px !important;
+    margin-bottom: 88px
+  }
+
+  .collection-type-template-page #title-area h1,.collection-type-template-page.info-page-layout-poster #title-area h1,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area h1,.collection-type-template-page.info-page-layout-business-card #title-area h1,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area h1,.collection-type-template-page.info-page-layout-offset #title-area h1,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area h1,.collection-type-template-page.info-page-content-overlay #title-area h1,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area h1,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area h1,.collection-type-template-page #homeBlockField h1,.collection-type-template-page.info-page-layout-poster #homeBlockField h1,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #homeBlockField h1,.collection-type-template-page.info-page-layout-business-card #homeBlockField h1,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #homeBlockField h1,.collection-type-template-page.info-page-layout-offset #homeBlockField h1,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #homeBlockField h1,.collection-type-template-page.info-page-content-overlay #homeBlockField h1,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #homeBlockField h1,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #homeBlockField h1 {
+    font-size: 72px;
+    margin-bottom: 20px
+  }
+
+  .collection-type-template-page #title-area .contact-info,.collection-type-template-page.info-page-layout-poster #title-area .contact-info,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area .contact-info,.collection-type-template-page.info-page-layout-business-card #title-area .contact-info,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area .contact-info,.collection-type-template-page.info-page-layout-offset #title-area .contact-info,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area .contact-info,.collection-type-template-page.info-page-content-overlay #title-area .contact-info,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area .contact-info,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area .contact-info,.collection-type-template-page #homeBlockField .contact-info,.collection-type-template-page.info-page-layout-poster #homeBlockField .contact-info,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #homeBlockField .contact-info,.collection-type-template-page.info-page-layout-business-card #homeBlockField .contact-info,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #homeBlockField .contact-info,.collection-type-template-page.info-page-layout-offset #homeBlockField .contact-info,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #homeBlockField .contact-info,.collection-type-template-page.info-page-content-overlay #homeBlockField .contact-info,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #homeBlockField .contact-info,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #homeBlockField .contact-info {
+    margin-bottom: 20px
+  }
+
+  .collection-type-template-page #title-area .contact-info p,.collection-type-template-page.info-page-layout-poster #title-area .contact-info p,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #title-area .contact-info p,.collection-type-template-page.info-page-layout-business-card #title-area .contact-info p,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #title-area .contact-info p,.collection-type-template-page.info-page-layout-offset #title-area .contact-info p,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #title-area .contact-info p,.collection-type-template-page.info-page-content-overlay #title-area .contact-info p,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #title-area .contact-info p,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #title-area .contact-info p,.collection-type-template-page #homeBlockField .contact-info p,.collection-type-template-page.info-page-layout-poster #homeBlockField .contact-info p,.collection-type-template-page.info-page-layout-poster.freeform-text-on-info-page #homeBlockField .contact-info p,.collection-type-template-page.info-page-layout-business-card #homeBlockField .contact-info p,.collection-type-template-page.info-page-layout-business-card.freeform-text-on-info-page #homeBlockField .contact-info p,.collection-type-template-page.info-page-layout-offset #homeBlockField .contact-info p,.collection-type-template-page.info-page-layout-offset.freeform-text-on-info-page #homeBlockField .contact-info p,.collection-type-template-page.info-page-content-overlay #homeBlockField .contact-info p,.collection-type-template-page.info-page-content-overlay.freeform-text-on-info-page #homeBlockField .contact-info p,body:not(.info-page-layout-business-card).collection-type-template-page.info-page-content-overlay #homeBlockField .contact-info p {
+    font-size: 10.4px
+  }
+
+  .collection-type-template-page.info-page-content-overlay #title-area,.collection-type-template-page.info-page-content-overlay #homeBlockField {
+    padding: 25px
+  }
+
+  .collection-layout-default #main-navigation,body:not(.collection-type-template-page) #main-navigation {
+    width: 100%
+  }
+
+  .sqs-block.quote-block .sqs-block-content .quote blockquote {
+    margin: 1em 0 .5em
+  }
+
+  .sqs-block.quote-block .sqs-block-content .source {
+    margin: 0 0 1em
+  }
+
+  .sqs-block.html-block .sqs-block-content blockquote {
+    margin: 1em 0 .5em
+  }
+
+  .category-nav-toggle-label {
+    display: block;
+    visibility: visible;
+    width: 100%;
+    z-index: 2;
+    position: absolute;
+    top: .5em;
+    right: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1.8em;
+    text-align: right
+  }
+
+  .category-nav-toggle-label:after {
+    font-size: 20px;
+    content: "+";
+    display: block;
+    text-align: right
+  }
+
+  #categoryNav {
+    margin-bottom: 25px;
+    position: relative;
+    padding: 0 10px;
+    background-color: rgba(150,150,150,.1)
+  }
+
+  #categoryNav ul {
+    text-align: left;
+    font-size: 14px;
+    margin: 0px 10% 0 0;
+    line-height: 1.8em
+  }
+
+  #categoryNav ul li {
+    margin: 0;
+    padding-right: 0 !important;
+    display: none
+  }
+
+  #categoryNav ul li.filter {
+    display: block;
+    visibility: visible
+  }
+
+  #categoryNav ul li a {
+    display: block;
+    font-size: 14px;
+    padding: .5em 0
+  }
+
+  .page-alignment-center #categoryNav ul,.page-alignment-right #categoryNav ul {
+    text-align: left
+  }
+
+  .page-alignment-center #categoryNav ul li,.page-alignment-right #categoryNav ul li {
+    margin-left: 0;
+    margin-right: 0
+  }
+
+  #categoryNav #categoryNavToggle:checked+.category-nav-toggle-label {
+    z-index: 0
+  }
+
+  #categoryNav #categoryNavToggle:checked+.category-nav-toggle-label:after {
+    content: '–'
+  }
+
+  #categoryNav #categoryNavToggle:checked~.category-nav ul {
+    z-index: 2
+  }
+
+  #categoryNav #categoryNavToggle:checked~.category-nav ul li:not(.filter) {
+    display: block
+  }
+}
+
